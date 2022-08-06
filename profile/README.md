@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Welcome to the Part-Time Evening Program at Nashville Software School
+### Welcome to the Part-Time Web Development Program at Nashville Software School
 
 ## Curriculum
 - Front End Curriculum
