@@ -2,6 +2,12 @@
 
 ### Welcome to the Part-Time Evening Program at Nashville Software School
 
+## Curriculum
+- Front End Curriculum
+- C# Curriculum
+- Python Curriculum
+
+
 <!--
 
 **Here are some ideas to get you started:**
