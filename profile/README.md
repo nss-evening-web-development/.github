@@ -2,6 +2,7 @@
 
 ### Welcome to the Part-Time Web Development Program at Nashville Software School
 
+<!--
 ## Curriculum
 - Prework
 - Front End Curriculum
@@ -9,7 +10,7 @@
 - Python Curriculum
 
 
-<!--
+
 
 **Here are some ideas to get you started:**
 
